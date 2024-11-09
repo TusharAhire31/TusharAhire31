@@ -5,7 +5,7 @@
 <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm TUSHAR AHIRE</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=AI+Engineer;Data scientist;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=AI+Engineer;" alt="Typing SVG" />
 
 </p>
 
@@ -23,7 +23,7 @@
     </td>
     <td align="center">
       <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="RAFIK SHAH">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="TUSHAR AHIRE">
       </a>
     </td>
     <td align="center">
