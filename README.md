@@ -48,35 +48,7 @@ As a versatile Artificial Intelligence and Machine Learning Engineer , I special
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharAhire31&custom_title=TusharAhire31's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
 
-### Top Repositories
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/TusharAhire31/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TusharAhire31&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/TusharAhire31/Weather-3d-ai-app.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TusharAhire31&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/TusharAhire31/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TusharAhire31&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/TusharAhire31/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TusharAhire31&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 ### GitHub Contribution Chart
 <a href="https://github.com/TusharAhire31">
