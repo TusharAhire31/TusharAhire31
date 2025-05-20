@@ -112,18 +112,6 @@ As a versatile Artificial Intelligence and Machine Learning Engineer , I special
   <a href="https://star-history.com/#TusharAhire31/TusharAhire31&Date">
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=TusharAhire31/TusharAhire31&type=Date&theme=dark" />
   </a>
-</details>
-
-
-<br>
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=TusharAhire31&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
-</details>
-
-
-
 
 
 <div align="center">
